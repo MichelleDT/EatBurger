@@ -8,6 +8,6 @@ This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create a b
 2. Select a burger you would like to **Devour** from the "Burgers Available to Eat List".
     - Burger will be moved to the "Burgers That Have Been Devoured" section of the page.
 
-![Image description](/Home.png)
+![Image description](Home.png)
 
 
