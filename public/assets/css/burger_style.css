@@ -1,0 +1,39 @@
+body {
+    font-family: 'Anton', sans-serif;
+    width: 100%;
+    background-image: url('../img/Burger.png');
+    background-size: cover;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+#avail {
+    float: left;
+    margin-right: 6%;
+    margin-left: 10%;
+}
+
+#devoured {
+    float: left;
+    font-size: 40px;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+#add {
+    clear: both;
+    margin-left: 25%;
+    font-size: 20px;
+}
